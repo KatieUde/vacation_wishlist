@@ -1,0 +1,19 @@
+[
+  {
+  "name": "Southeast Asia Part 1",
+  "location": "Vietnam",
+  "duration": "6",
+  "description": "Don't die motorbiking",
+  "season": "Late Spring",
+  "budget": "2500"
+  },
+
+  {
+  "name": "German Castles",
+  "location": "Germany",
+  "duration": "7",
+  "description": "Lots and lots of castles",
+  "season": "Summer",
+  "budget": "2500"
+  }
+]
